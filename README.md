@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">A Data Analyst with extensive experience in Marketing, Import-Export Operations, Logistics and Supply Chain Management, cooperation with Retail chains and organization of High-Level International Business Events with more than 8 years of experience in commercial companies and state bodies.</h3>
-
-- 📫 How to reach me **semenovi1994@gmail.com**
+*   🌍  I'm based in Charlotte, North Carolina. USA
+*   ✉️  You can contact me at [semenovi1994@gmail.com](mailto:semenovi1994@gmail.com)
+*   🧠  I operate Python, SQL, Tableau
+*   🤝  I'm open to collaborating on interesting project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -12,3 +13,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
