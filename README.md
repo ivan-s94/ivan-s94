@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Ivan</h1>
-==============================================================================================================================
+============================================================================================
 
 *   🌍  I'm based in Charlotte, North Carolina. USA
-*   ✉️  You can contact me at (mailto:semenovi1994@gmail.com)
+*   ✉️  You can contact me at (semenovi1994@gmail.com)
 *   🧠  I operate Python, SQL, Tableau
 *   🤝  I'm open to collaborating on interesting project
 
@@ -14,5 +14,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png"> </a> </p> 
+<p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1jXOfGbUpsRtPXCipwYPKaSTy5iIdKIWZ/view?usp=drive_link"> </a> </p> 
 
