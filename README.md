@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 ==============================================================================================================================
-*   🌍  I'm based in Charlotte, North Carolina. USA
 
+*   🌍  I'm based in Charlotte, North Carolina. USA
 *   ✉️  You can contact me at (mailto:semenovi1994@gmail.com)
-*   
 *   🧠  I operate Python, SQL, Tableau
-*   
 *   🤝  I'm open to collaborating on interesting project
-*   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
