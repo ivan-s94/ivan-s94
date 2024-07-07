@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ivan</h1>
-============================================================================================
+
 
 *   🌍  I'm based in Charlotte, North Carolina. USA
 *   ✉️  You can contact me at (semenovi1994@gmail.com)
